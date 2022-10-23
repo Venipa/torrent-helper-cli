@@ -1,0 +1,14 @@
+{
+  "name": "torrent-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "torrent-cli": "./cli.js"
+  },
+  "dependencies": {
+    "parse-torrent": "^9.1.5",
+    "pretty-bytes": "^4.0.2",
+    "yargs": "^17.6.0"
+  }
+}
